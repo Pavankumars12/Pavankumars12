@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
- - 📝 check out my Resume [file:///C:/Users/Dell/Downloads/RESUme2%20(1).pd](resume)
+ - 📝 check out my Resume [resume](resume)
 
 
 - 📫 How to reach me **pavankumars200312@gmail.com**
