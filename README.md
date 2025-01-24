@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python developer**
 
-- 👨‍💻 All of my projects are available at [port](port)
+- 👨‍💻 All of my projects are available at [port](soon)
 
 - 📝 check out my Resume [resume](resume)
 
