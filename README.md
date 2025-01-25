@@ -7,10 +7,7 @@
 
 - 🌱 I’m currently learning **python developer**
 
-- 👨‍💻 All of my projects are available at [soon](MY-Resume)
-
- - 📝 check out my Resume [resume](resume)
-
+- 📝 check out my RESUME [RESUME](https://drive.google.com/drive/my-drive)
 
 - 📫 How to reach me **pavankumars200312@gmail.com**
 
